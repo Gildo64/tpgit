@@ -1,0 +1,94 @@
+﻿MODIFICATION D'ARTICLES 
+
+Titre : cc
+Article. Titre : cc
+
+Début
+
+Pour Titre = Article. Titre
+          Afficher '' Article. Titre ''
+
+Fin pour
+
+Modifier '' Article. Titre ''
+
+
+PUBLICATION D'ARTICLES 
+
+USER: CC
+Admin : cc
+Forme : cc
+
+
+Début 
+
+
+Afficher '' veuillez entrer USER''
+Lire USER 
+
+Pour i= 0 à n-1
+
+           Si USER = Admin 
+    Afficher' 'connexion réussie' '
+     Sinon 
+
+    Afficher' 'connexion échoué' '
+
+Fin pour 
+
+
+Si Forme =' '' '
+Afficher' 'veuillez saisir un texte' '
+Sinon 
+Afficher' 'texte publié' '
+
+
+
+
+SUPPRIMER UN TEXTE 
+
+
+MODIFICATION D'ARTICLES 
+
+Titre : cc
+Article. Titre : cc
+
+Début
+
+Pour Titre = Article. Titre
+          Afficher '' Article. Titre ''
+
+Fin pour
+
+Suprimer '' Article. Titre ''
+
+
+FILTRER UN ARTICLE 
+
+
+
+MODIFICATION D'ARTICLES 
+
+Titre : cc
+Article. Titre : cc
+
+Début
+
+Pour Titre = Article. Titre
+          Afficher '' Article. Titre ''
+
+Fin pour
+
+
+
+AIMER, PARTAGER UN ARTICLE 
+
+
+Lire '' Article '' 
+Si Article = bon faire 
+    Aimer, partager 
+
+
+
+
+
